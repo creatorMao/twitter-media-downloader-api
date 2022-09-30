@@ -1,0 +1,17 @@
+{
+  "name": "leveldbtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "guid": "^0.0.12",
+    "leveldown": "^6.1.1",
+    "levelup": "^5.1.1"
+  }
+}
